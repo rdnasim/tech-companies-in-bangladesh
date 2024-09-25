@@ -863,6 +863,11 @@ https://www.linkedin.com/company/southtechgroup/[LinkedIn]
 |PHP, CakePHP, Laravel, RabbitMQ, .NET, C#, Django, Java, J2EE, Spring, WordPress, MySQL, MongoDB, PostgreSQL, SQL Server, Oracle, SCSS, LESS, jQuery, VueJS, Android, Ionic
 |https://tappware.com/[Website]
 
+|Teamexus Solutions Limited
+|161/B (1st Floor) Lake Circus, Kalabagan, Dhaka-1205.
+|GeneXus, .NET, Java, NodeJS, Kotlin, Flutter, Android, iOS
+|https://teamexus.com/[Website]
+
 |Technohaven Company Limited
 |Seleena Bhaban, House #169 (6th Floor), Road #03, Mohakhali DOHS, Dhaka 1206
 |NodeJS, Angular, Rust, React, Android, iOS, Machine Learning, Blockchain
